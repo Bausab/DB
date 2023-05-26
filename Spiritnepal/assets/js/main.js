@@ -24,3 +24,6 @@ toggleSidebar.addEventListener("click", () => {
 logo.addEventListener("click", () => {
   sidebar.classList.toggle("close");
 });
+
+
+
