@@ -218,6 +218,7 @@ div.text {
     font-weight: 600;
 }
 
+
 /* Profile Section  */
 .Profile {
     position: fixed;
@@ -260,6 +261,13 @@ footer span:hover {
     color: greenyellow;
 
 }
+a.button-btn{
+    color: red;
+}
+
+a.button-btn:hover {
+    color: greenyellow;
+   }
 
 
 
