@@ -233,10 +233,12 @@ div.text {
     font-family: sans-serif;
     right: 35px;
     top: 10px;
+    cursor: pointer;
 }
 
 img {
     position: fixed;
+    cursor: pointer;
     right: 130px;
     height: 40px;
     width: 40px;
