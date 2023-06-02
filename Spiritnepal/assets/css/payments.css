@@ -357,10 +357,10 @@ a.button-btn:hover {
 table {
     border-collapse: collapse;
     width: 90%;
-    height: 80%;
+    height: 60%;
     background-color: #000000;
     color: whitesmoke;
-    margin-top: 5rem;
+    margin-top: 6rem;
     margin-left: 100px;
     align-items: center;
 }

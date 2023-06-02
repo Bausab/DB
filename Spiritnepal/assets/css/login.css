@@ -17,6 +17,13 @@ body {
   letter-spacing: 1px;
   background-color: #0c1022;
 }
+html body h1{
+  position: absolute;
+  color: #00ccff;
+  top: 10%;
+  font-size: 25px;
+  animation: rotate_border 4s linear infinite;
+}
 
 
 
@@ -138,6 +145,7 @@ label {
   text-decoration: none;
   cursor: pointer;
   font-size: 18px;
+  color: #00ccff;
 }
 
 .glowIcon {
